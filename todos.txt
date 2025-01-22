@@ -1,0 +1,4 @@
+clean
+leave
+read
+write
