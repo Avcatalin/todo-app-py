@@ -1,5 +1,5 @@
 clean
-leave
-read
+come
 write
-Fix the computer
+get healthy
+get the car
