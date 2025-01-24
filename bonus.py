@@ -1,4 +1,6 @@
-filenames = ["report.txt", "downloads.txt", "success.txt", "folders.txt"]
+def get_average():
+    print("Hi")
+    x = "hello"
 
-for file in filenames:
-    print(file[:-4].title())
+
+print(get_average())
