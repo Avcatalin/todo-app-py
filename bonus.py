@@ -1,6 +1,5 @@
-def get_average():
-    print("Hi")
-    x = "hello"
+def foo(name):
+    return f"Hi {name.capitalize()}"
 
 
-print(get_average())
+print(foo("catalin"))
