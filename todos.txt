@@ -1,7 +1,3 @@
 clean
 come
 write
-get healthy
-got the car
-this is resolved
-compile code
